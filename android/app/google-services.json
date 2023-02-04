@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257410576483",
+    "project_id": "appoinment-doctor",
+    "storage_bucket": "appoinment-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257410576483:android:06e9607fcf3daf36298856",
+        "android_client_info": {
+          "package_name": "com.example.appoiment_docter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257410576483-95ulkmlat9kkcda93id9uoldaupmrefr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQil05ZOcP5cPk1nRgfXAjvk9Lgx-X4O0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257410576483-95ulkmlat9kkcda93id9uoldaupmrefr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
