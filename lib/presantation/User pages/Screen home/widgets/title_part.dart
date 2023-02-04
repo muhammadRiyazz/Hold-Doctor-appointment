@@ -75,8 +75,6 @@ class NotificationButton extends StatelessWidget {
     return SimpleShadow(
       child: InkWell(
         onTap: () {
-          Notificatoinclass.shownotification(
-              title: 'arah.ab', body: 'vbnghvbm,', payload: 'sarah.abs', id: 1);
           // Navigator.push(context, MaterialPageRoute(
           //   builder: (context) {
           //     return const ScreenNotification();
