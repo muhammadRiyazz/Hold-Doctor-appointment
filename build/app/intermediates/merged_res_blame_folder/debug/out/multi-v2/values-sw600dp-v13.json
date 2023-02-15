@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\riyaz\\Desktop\\bro to type\\second projrct\\appoiment_docter\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\riyaz\\.gradle\\caches\\transforms-3\\92a1a0cd73fb8c50c9fcbc62d3dc23c4\\transformed\\jetified-checkout-1.6.27\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\riyaz\\.gradle\\caches\\transforms-3\\9611a999463ad91a68942274a7485bc5\\transformed\\jetified-checkout-1.6.29\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

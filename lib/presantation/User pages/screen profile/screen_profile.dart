@@ -187,6 +187,11 @@ logout({required BuildContext context}) {
     onConfirmBtnTap: () async {
       Navigator.pop(context);
       await FirebaseAuth.instance.signOut();
+      Navigator.pushAndRemoveUntil(context, MaterialPageRoute(
+        builder: (context) {
+          return const AuthScreen();
+        },
+      ), (route) => false);
     },
   );
 }
